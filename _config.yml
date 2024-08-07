@@ -4,4 +4,4 @@ minima:
 title: CUHK in Depth
 description: 一個唔知道有冇人會睇到嘅blog，希望可以幫到被迫做solo player嘅中大人們
 plugins:
-- jemoji
+  - jemoji
