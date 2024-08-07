@@ -2,6 +2,7 @@
 layout: post
 title: "您好，世界！ Hello, World!"
 categories: whoami
+author: Chemist
 ---
 ~~我都唔知點自介好，可能就係因為咁我先喺呢啲奇怪網站寫文xd~~
 
